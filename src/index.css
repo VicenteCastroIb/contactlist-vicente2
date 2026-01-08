@@ -1,0 +1,15 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    padding-left: 200px;
+    padding-right: 200px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    background-color: rgb(219, 219, 219);
+    margin-bottom: 50px;
+}
+
+.card {
+    margin-left: 82px;
+    margin-right: 82px;
+}
